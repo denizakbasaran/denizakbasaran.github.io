@@ -2,3 +2,5 @@
 My Blog Site
 
 ## deneme
+
+theme: minima
